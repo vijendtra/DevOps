@@ -1,0 +1,1 @@
+{"version":3,"file":"MiningHardware.d.ts","sourceRoot":"","sources":["../../src/models/MiningHardware.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,KAAK,EAAa,MAAM,WAAW,CAAC;AAExD,qBAAa,cAAe,SAAQ,KAAK;IAC9B,EAAE,EAAG,MAAM,CAAC;IACZ,IAAI,EAAG,MAAM,CAAC;IACd,QAAQ,EAAG,MAAM,CAAC;IAClB,QAAQ,EAAG,MAAM,CAAC;CAC5B;AAED,wBAAgB,kBAAkB,CAAC,SAAS,EAAE,SAAS,QA2BtD"}

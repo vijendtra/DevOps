@@ -1,0 +1,1 @@
+{"version":3,"file":"miningHardwareController.d.ts","sourceRoot":"","sources":["../../src/controllers/miningHardwareController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAI5C,eAAO,MAAM,wBAAwB;kBAEb,OAAO,OAAO,QAAQ;gBAUxB,OAAO,OAAO,QAAQ;kBAiCpB,OAAO,OAAO,QAAQ;kBAWtB,OAAO,OAAO,QAAQ;gCAUR,OAAO,OAAO,QAAQ;CAS3D,CAAA"}

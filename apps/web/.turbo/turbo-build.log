@@ -1,0 +1,50 @@
+$ next build
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'appDir' at "experimental"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+   ▲ Next.js 14.0.0
+   - Environments: .env
+   - Experiments (use at your own risk):
+     · outputFileTracingRoot
+
+   Creating an optimized production build ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+
+./src/components/Redirect.tsx
+13:7  Warning: React Hook useEffect has missing dependencies: 'router' and 'to'. Either include them or remove the dependency array.  react-hooks/exhaustive-deps
+
+./src/components/core/Analysis.tsx
+61:8  Warning: React Hook useEffect has missing dependencies: 'analyzeHardware', 'getAllHardwares', 'hardwarId', and 'period'. Either include them or remove the dependency array.  react-hooks/exhaustive-deps
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules
+   Collecting page data ...
+   Generating static pages (0/10) ...
+   Generating static pages (2/10) 
+   Generating static pages (4/10) 
+   Generating static pages (7/10) 
+ ✓ Generating static pages (10/10) 
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    1.79 kB         122 kB
+├ ○ /_not-found                          880 B          88.4 kB
+├ λ /dashboard                           1.37 kB         116 kB
+├ ○ /dashboard/analysis                  2.85 kB         104 kB
+├ λ /dashboard/mining-hardwares          1.16 kB         124 kB
+├ ○ /sign-in                             1.73 kB         122 kB
+└ ○ /sign-up                             1.81 kB         122 kB
++ First Load JS shared by all            87.5 kB
+  ├ chunks/1dd3208c-c1f2c08bf5dffb15.js  53.2 kB
+  ├ chunks/53-17dc9f0c20c90cc9.js        32.3 kB
+  ├ chunks/main-app-551f06c8e96ccc10.js  231 B
+  └ chunks/webpack-971813c590850b99.js   1.77 kB
+
+
+○  (Static)   prerendered as static HTML
+λ  (Dynamic)  server-rendered on demand using Node.js
+

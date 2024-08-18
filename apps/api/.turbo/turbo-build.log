@@ -1,0 +1,2 @@
+warning package.json: "dependencies" has dependency "@types/cors" with range "^2.8.15" that collides with a dependency in "devDependencies" of the same name with version "^2.8.10"
+$ tsc

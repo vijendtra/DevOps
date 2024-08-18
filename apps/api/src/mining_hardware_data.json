@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Antminer S1",
+        "location": "Mining Facility C",
+        "hashRate": "95.47337585632621 TH/S"
+    },
+    {
+        "id": 2,
+        "name": "Antminer S2",
+        "location": "Mining Facility A",
+        "hashRate": "63.124653604061336 TH/S"
+    },
+    {
+        "id": 3,
+        "name": "Antminer S3",
+        "location": "Mining Facility B",
+        "hashRate": "150.0160810465253 TH/S"
+    },
+    {
+        "id": 4,
+        "name": "Antminer S4",
+        "location": "Mining Facility C",
+        "hashRate": "129.9991929861352 TH/S"
+    },
+    {
+        "id": 5,
+        "name": "Antminer S5",
+        "location": "Mining Facility C",
+        "hashRate": "89.89673834028852 TH/S"
+    },
+    {
+        "id": 6,
+        "name": "Antminer S6",
+        "location": "Mining Facility A",
+        "hashRate": "119.75219585930984 TH/S"
+    },
+    {
+        "id": 7,
+        "name": "Antminer S7",
+        "location": "Mining Facility C",
+        "hashRate": "177.73249985564564 TH/S"
+    },
+    {
+        "id": 8,
+        "name": "Antminer S8",
+        "location": "Mining Facility B",
+        "hashRate": "171.52280818167156 TH/S"
+    },
+    {
+        "id": 9,
+        "name": "Antminer S9",
+        "location": "Mining Facility A",
+        "hashRate": "74.60731729087343 TH/S"
+    },
+    {
+        "id": 10,
+        "name": "Antminer S10",
+        "location": "Mining Facility B",
+        "hashRate": "180.02524149781846 TH/S"
+    },
+    {
+        "id": 11,
+        "name": "Antminer S11",
+        "location": "Mining Facility A",
+        "hashRate": "199.45025081508592 TH/S"
+    },
+    {
+        "id": 12,
+        "name": "Antminer S12",
+        "location": "Mining Facility C",
+        "hashRate": "74.44729229444378 TH/S"
+    },
+    {
+        "id": 13,
+        "name": "Antminer S13",
+        "location": "Mining Facility B",
+        "hashRate": "136.30782054928818 TH/S"
+    },
+    {
+        "id": 14,
+        "name": "Antminer S14",
+        "location": "Mining Facility C",
+        "hashRate": "142.48412073650863 TH/S"
+    },
+    {
+        "id": 15,
+        "name": "Antminer S15",
+        "location": "Mining Facility C",
+        "hashRate": "62.464767881082736 TH/S"
+    },
+    {
+        "id": 16,
+        "name": "Antminer S16",
+        "location": "Mining Facility A",
+        "hashRate": "99.03188491937291 TH/S"
+    },
+    {
+        "id": 17,
+        "name": "Antminer S17",
+        "location": "Mining Facility A",
+        "hashRate": "81.77582864149117 TH/S"
+    },
+    {
+        "id": 18,
+        "name": "Antminer S18",
+        "location": "Mining Facility B",
+        "hashRate": "167.1921699219566 TH/S"
+    },
+    {
+        "id": 19,
+        "name": "Antminer S19",
+        "location": "Mining Facility A",
+        "hashRate": "195.20203815318223 TH/S"
+    },
+    {
+        "id": 20,
+        "name": "Antminer S20",
+        "location": "Mining Facility A",
+        "hashRate": "66.12278700825286 TH/S"
+    },
+    {
+        "id": 21,
+        "name": "Antminer S21",
+        "location": "Mining Facility C",
+        "hashRate": "51.056059711425526 TH/S"
+    },
+    {
+        "id": 22,
+        "name": "Antminer S22",
+        "location": "Mining Facility A",
+        "hashRate": "126.13131212154948 TH/S"
+    },
+    {
+        "id": 23,
+        "name": "Antminer S23",
+        "location": "Mining Facility C",
+        "hashRate": "50.36183737814562 TH/S"
+    },
+    {
+        "id": 24,
+        "name": "Antminer S24",
+        "location": "Mining Facility C",
+        "hashRate": "197.00269471979692 TH/S"
+    },
+    {
+        "id": 25,
+        "name": "Antminer S25",
+        "location": "Mining Facility C",
+        "hashRate": "94.79672000946542 TH/S"
+    },
+    {
+        "id": 26,
+        "name": "Antminer S26",
+        "location": "Mining Facility A",
+        "hashRate": "59.53215896298039 TH/S"
+    },
+    {
+        "id": 27,
+        "name": "Antminer S27",
+        "location": "Mining Facility B",
+        "hashRate": "133.92114717678868 TH/S"
+    },
+    {
+        "id": 28,
+        "name": "Antminer S28",
+        "location": "Mining Facility A",
+        "hashRate": "54.44132728352372 TH/S"
+    },
+    {
+        "id": 29,
+        "name": "Antminer S29",
+        "location": "Mining Facility B",
+        "hashRate": "111.41241501659705 TH/S"
+    },
+    {
+        "id": 30,
+        "name": "Antminer S30",
+        "location": "Mining Facility B",
+        "hashRate": "170.96441047370985 TH/S"
+    },
+    {
+        "id": 31,
+        "name": "Antminer S31",
+        "location": "Mining Facility A",
+        "hashRate": "77.96597892159402 TH/S"
+    },
+    {
+        "id": 32,
+        "name": "Antminer S32",
+        "location": "Mining Facility A",
+        "hashRate": "172.5679584627439 TH/S"
+    },
+    {
+        "id": 33,
+        "name": "Antminer S33",
+        "location": "Mining Facility B",
+        "hashRate": "97.62376788480307 TH/S"
+    },
+    {
+        "id": 34,
+        "name": "Antminer S34",
+        "location": "Mining Facility B",
+        "hashRate": "155.7351177143219 TH/S"
+    },
+    {
+        "id": 35,
+        "name": "Antminer S35",
+        "location": "Mining Facility B",
+        "hashRate": "72.51441805891815 TH/S"
+    },
+    {
+        "id": 36,
+        "name": "Antminer S36",
+        "location": "Mining Facility C",
+        "hashRate": "192.85518250537893 TH/S"
+    },
+    {
+        "id": 37,
+        "name": "Antminer S37",
+        "location": "Mining Facility A",
+        "hashRate": "118.81691947450298 TH/S"
+    },
+    {
+        "id": 38,
+        "name": "Antminer S38",
+        "location": "Mining Facility C",
+        "hashRate": "113.25851550484796 TH/S"
+    },
+    {
+        "id": 39,
+        "name": "Antminer S39",
+        "location": "Mining Facility C",
+        "hashRate": "88.20287234406001 TH/S"
+    },
+    {
+        "id": 40,
+        "name": "Antminer S40",
+        "location": "Mining Facility A",
+        "hashRate": "75.58964436850513 TH/S"
+    },
+    {
+        "id": 41,
+        "name": "Antminer S41",
+        "location": "Mining Facility B",
+        "hashRate": "118.33447532022224 TH/S"
+    },
+    {
+        "id": 42,
+        "name": "Antminer S42",
+        "location": "Mining Facility C",
+        "hashRate": "76.58643260672552 TH/S"
+    },
+    {
+        "id": 43,
+        "name": "Antminer S43",
+        "location": "Mining Facility B",
+        "hashRate": "100.39759580736879 TH/S"
+    },
+    {
+        "id": 44,
+        "name": "Antminer S44",
+        "location": "Mining Facility C",
+        "hashRate": "68.09202633689665 TH/S"
+    },
+    {
+        "id": 45,
+        "name": "Antminer S45",
+        "location": "Mining Facility C",
+        "hashRate": "115.92681003843784 TH/S"
+    },
+    {
+        "id": 46,
+        "name": "Antminer S46",
+        "location": "Mining Facility B",
+        "hashRate": "110.42429289777543 TH/S"
+    },
+    {
+        "id": 47,
+        "name": "Antminer S47",
+        "location": "Mining Facility A",
+        "hashRate": "60.763894911503236 TH/S"
+    },
+    {
+        "id": 48,
+        "name": "Antminer S48",
+        "location": "Mining Facility B",
+        "hashRate": "65.58413626321806 TH/S"
+    },
+    {
+        "id": 49,
+        "name": "Antminer S49",
+        "location": "Mining Facility B",
+        "hashRate": "176.67947782024896 TH/S"
+    },
+    {
+        "id": 50,
+        "name": "Antminer S50",
+        "location": "Mining Facility C",
+        "hashRate": "86.69555233014857 TH/S"
+    },
+    {
+        "id": 51,
+        "name": "Antminer S51",
+        "location": "Mining Facility A",
+        "hashRate": "79.11407731219045 TH/S"
+    },
+    {
+        "id": 52,
+        "name": "Antminer S52",
+        "location": "Mining Facility C",
+        "hashRate": "139.84981627168122 TH/S"
+    },
+    {
+        "id": 53,
+        "name": "Antminer S53",
+        "location": "Mining Facility C",
+        "hashRate": "108.8508012734221 TH/S"
+    },
+    {
+        "id": 54,
+        "name": "Antminer S54",
+        "location": "Mining Facility C",
+        "hashRate": "124.01236768066194 TH/S"
+    },
+    {
+        "id": 55,
+        "name": "Antminer S55",
+        "location": "Mining Facility C",
+        "hashRate": "50.728606175594045 TH/S"
+    },
+    {
+        "id": 56,
+        "name": "Antminer S56",
+        "location": "Mining Facility C",
+        "hashRate": "70.45330711300662 TH/S"
+    },
+    {
+        "id": 57,
+        "name": "Antminer S57",
+        "location": "Mining Facility B",
+        "hashRate": "135.5781885540436 TH/S"
+    },
+    {
+        "id": 58,
+        "name": "Antminer S58",
+        "location": "Mining Facility C",
+        "hashRate": "186.3942395841729 TH/S"
+    },
+    {
+        "id": 59,
+        "name": "Antminer S59",
+        "location": "Mining Facility C",
+        "hashRate": "143.59418053613734 TH/S"
+    },
+    {
+        "id": 60,
+        "name": "Antminer S60",
+        "location": "Mining Facility B",
+        "hashRate": "162.87362569298662 TH/S"
+    },
+    {
+        "id": 61,
+        "name": "Antminer S61",
+        "location": "Mining Facility C",
+        "hashRate": "144.95504593026277 TH/S"
+    },
+    {
+        "id": 62,
+        "name": "Antminer S62",
+        "location": "Mining Facility A",
+        "hashRate": "178.20560698039458 TH/S"
+    },
+    {
+        "id": 63,
+        "name": "Antminer S63",
+        "location": "Mining Facility C",
+        "hashRate": "133.74935224238772 TH/S"
+    },
+    {
+        "id": 64,
+        "name": "Antminer S64",
+        "location": "Mining Facility C",
+        "hashRate": "73.23404454957276 TH/S"
+    },
+    {
+        "id": 65,
+        "name": "Antminer S65",
+        "location": "Mining Facility A",
+        "hashRate": "102.779180521678 TH/S"
+    },
+    {
+        "id": 66,
+        "name": "Antminer S66",
+        "location": "Mining Facility C",
+        "hashRate": "68.91290484690525 TH/S"
+    },
+    {
+        "id": 67,
+        "name": "Antminer S67",
+        "location": "Mining Facility A",
+        "hashRate": "55.65660634453676 TH/S"
+    },
+    {
+        "id": 68,
+        "name": "Antminer S68",
+        "location": "Mining Facility C",
+        "hashRate": "173.29330483724993 TH/S"
+    },
+    {
+        "id": 69,
+        "name": "Antminer S69",
+        "location": "Mining Facility A",
+        "hashRate": "146.27997541403693 TH/S"
+    },
+    {
+        "id": 70,
+        "name": "Antminer S70",
+        "location": "Mining Facility A",
+        "hashRate": "58.3958867101871 TH/S"
+    },
+    {
+        "id": 71,
+        "name": "Antminer S71",
+        "location": "Mining Facility B",
+        "hashRate": "86.46253273077275 TH/S"
+    },
+    {
+        "id": 72,
+        "name": "Antminer S72",
+        "location": "Mining Facility C",
+        "hashRate": "77.28540406465844 TH/S"
+    },
+    {
+        "id": 73,
+        "name": "Antminer S73",
+        "location": "Mining Facility C",
+        "hashRate": "172.26687779581303 TH/S"
+    },
+    {
+        "id": 74,
+        "name": "Antminer S74",
+        "location": "Mining Facility A",
+        "hashRate": "52.28762549142741 TH/S"
+    },
+    {
+        "id": 75,
+        "name": "Antminer S75",
+        "location": "Mining Facility B",
+        "hashRate": "80.44420373345424 TH/S"
+    },
+    {
+        "id": 76,
+        "name": "Antminer S76",
+        "location": "Mining Facility A",
+        "hashRate": "189.57567630381706 TH/S"
+    },
+    {
+        "id": 77,
+        "name": "Antminer S77",
+        "location": "Mining Facility A",
+        "hashRate": "111.00872291123875 TH/S"
+    },
+    {
+        "id": 78,
+        "name": "Antminer S78",
+        "location": "Mining Facility C",
+        "hashRate": "87.52009239711012 TH/S"
+    },
+    {
+        "id": 79,
+        "name": "Antminer S79",
+        "location": "Mining Facility C",
+        "hashRate": "151.4329598045196 TH/S"
+    },
+    {
+        "id": 80,
+        "name": "Antminer S80",
+        "location": "Mining Facility C",
+        "hashRate": "193.12417617718205 TH/S"
+    },
+    {
+        "id": 81,
+        "name": "Antminer S81",
+        "location": "Mining Facility B",
+        "hashRate": "95.4548981612894 TH/S"
+    },
+    {
+        "id": 82,
+        "name": "Antminer S82",
+        "location": "Mining Facility B",
+        "hashRate": "110.84016649913389 TH/S"
+    },
+    {
+        "id": 83,
+        "name": "Antminer S83",
+        "location": "Mining Facility B",
+        "hashRate": "154.82937885619447 TH/S"
+    },
+    {
+        "id": 84,
+        "name": "Antminer S84",
+        "location": "Mining Facility B",
+        "hashRate": "73.15381379928401 TH/S"
+    },
+    {
+        "id": 85,
+        "name": "Antminer S85",
+        "location": "Mining Facility A",
+        "hashRate": "176.2139560812601 TH/S"
+    },
+    {
+        "id": 86,
+        "name": "Antminer S86",
+        "location": "Mining Facility C",
+        "hashRate": "77.47946931461922 TH/S"
+    },
+    {
+        "id": 87,
+        "name": "Antminer S87",
+        "location": "Mining Facility A",
+        "hashRate": "95.046546388749 TH/S"
+    },
+    {
+        "id": 88,
+        "name": "Antminer S88",
+        "location": "Mining Facility B",
+        "hashRate": "68.30781264535506 TH/S"
+    },
+    {
+        "id": 89,
+        "name": "Antminer S89",
+        "location": "Mining Facility C",
+        "hashRate": "58.3387945317631 TH/S"
+    },
+    {
+        "id": 90,
+        "name": "Antminer S90",
+        "location": "Mining Facility C",
+        "hashRate": "56.63901687636445 TH/S"
+    },
+    {
+        "id": 91,
+        "name": "Antminer S91",
+        "location": "Mining Facility A",
+        "hashRate": "130.21724693362052 TH/S"
+    },
+    {
+        "id": 92,
+        "name": "Antminer S92",
+        "location": "Mining Facility B",
+        "hashRate": "187.61547254992553 TH/S"
+    },
+    {
+        "id": 93,
+        "name": "Antminer S93",
+        "location": "Mining Facility A",
+        "hashRate": "115.56034927622423 TH/S"
+    },
+    {
+        "id": 94,
+        "name": "Antminer S94",
+        "location": "Mining Facility B",
+        "hashRate": "97.76772735475907 TH/S"
+    },
+    {
+        "id": 95,
+        "name": "Antminer S95",
+        "location": "Mining Facility C",
+        "hashRate": "196.59549774207164 TH/S"
+    },
+    {
+        "id": 96,
+        "name": "Antminer S96",
+        "location": "Mining Facility C",
+        "hashRate": "115.586554731504 TH/S"
+    },
+    {
+        "id": 97,
+        "name": "Antminer S97",
+        "location": "Mining Facility C",
+        "hashRate": "119.96826319038027 TH/S"
+    },
+    {
+        "id": 98,
+        "name": "Antminer S98",
+        "location": "Mining Facility B",
+        "hashRate": "179.04467296982017 TH/S"
+    },
+    {
+        "id": 99,
+        "name": "Antminer S99",
+        "location": "Mining Facility B",
+        "hashRate": "96.40278797486596 TH/S"
+    },
+    {
+        "id": 100,
+        "name": "Antminer S100",
+        "location": "Mining Facility B",
+        "hashRate": "184.0281773660887 TH/S"
+    }
+]
