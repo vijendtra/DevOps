@@ -1,10 +1,10 @@
 ### **DevOps Test: CI Pipeline, AWS Infrastructure, and EKS Deployment**
 
 ### **Objective:**
-1.Fork the provided GitHub repository to your own GitHub account.
-2.should create a continuous integration (CI) pipeline using CircleCI or any other CI/CD tool of your choice. 
-3.provision AWS infrastructure using Terraform, 
-4.deploy the application to AWS EKS from your GitHub repository.
+- **Fork** the provided GitHub repository to your own GitHub account.
+- should create a continuous integration (CI) pipeline using CircleCI or any other CI/CD tool of your choice. 
+- provision AWS infrastructure using Terraform, 
+- deploy the application to AWS EKS from your GitHub repository.
 
 ---
 
@@ -55,7 +55,10 @@
     - Kubernetes best practices such as proper use of resources, probes, and secrets.
     - Efficient and scalable deployment strategy.
 
-  
+### **4.Submit Your Work**
+    - A link to the forked GitHub repository with the implemented CI pipeline and Terraform code. reply back at vij@dmgblockchain.com
+    - A brief documentation on how to access the deployed application and any additional notes on the implementation.
+
 ### **Test Environment:**
 
 - **Tools**:
